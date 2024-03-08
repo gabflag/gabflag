@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently Improving skills **MQL5, PFSense and English**
+ 🌱 I’m currently Improving skills **Mathematics, Python and English**
 
 💬 Ask me about **Python, MQL5, Linux... or anything [here](https://github.com/gabflag/gabflag/issues)**
  </div>
