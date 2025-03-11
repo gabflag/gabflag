@@ -28,21 +28,9 @@
     <img src="https://skillicons.dev/icons?i=nginx,py,javascript,java,mysql,django" /><br>
     <img src="https://skillicons.dev/icons?i=bash,vim,vscode,raspberrypi,linux" />
 </div>
-
-<br/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=gabflag&theme=whatsapp-dark2&border_radius=10&card_width=500&hide_current_streak=true)](https://git.io/streak-stats)
-</div>
 <br/>
 <hr/>
 <br/>
 
-<div align="center">
-<a href='https://www.buymeacoffee.com/gabflag' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
