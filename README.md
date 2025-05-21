@@ -7,26 +7,34 @@
 <br/>
 
 <div align="center">
- 
- 🌱 I’m currently Improving skills **Mathematics, Python and English**
+    
+🌱 I develop mobile and desktop solutions, with some apps available on **[Gumroad](https://panda2jz.gumroad.com/)** and **[Play Store](https://play.google.com/)**.
+📂 Some of these projects are open source and you can check the code in my repository.
 
-💬 Ask me about **Python, MQL5, Linux... or anything [here](https://github.com/gabflag/gabflag/issues)**
+💬 Have suggestions to improve any project? Feel free to open an issue **[here](https://github.com/gabflag/gabflag/issues).**
+
  </div>
  
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/gks-developer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a><a href="https://gabdeveloper.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
+    <a href="https://gabdeveloper.com" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+    </a>
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,github,git,gcp" /> <br>
-    <img src="https://skillicons.dev/icons?i=nginx,py,javascript,java,mysql,django" /><br>
-    <img src="https://skillicons.dev/icons?i=bash,vim,vscode,raspberrypi,linux" />
+<!-- Frontend & Web Technologies -->
+<img src="https://skillicons.dev/icons?i=html,css,javascript,wordpress,nginx" /><br>
+
+<!-- Backend & Programming Languages -->
+<img src="https://skillicons.dev/icons?i=python,java,django,mysql" /><br>
+
+<!-- Tools & Platforms -->
+<img src="https://skillicons.dev/icons?i=git,github,gcp,bash,vim,raspberrypi,linux" /><br>
+
+<!-- Mobile & Frameworks -->
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
 </div>
 <br/>
 <hr/>
